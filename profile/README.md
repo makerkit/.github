@@ -7,6 +7,7 @@
 #### Our Kits
 - [A Blog starter with Next.js, MDX and Tailwind CSS](https://github.com/makerkit/mk-next-blog-kit) 
 - A SaaS starter for building applications with Next.js, Firebase and Tailwind CSS [Premium]
+- A SaaS starter for building applications with Remix, Firebase and Tailwind CSS [Premium]
 
 #### Planned Starters
 - A starter for building Shopify apps with Next.js and Firebase
